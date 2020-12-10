@@ -1,13 +1,15 @@
 # Jetbot Labs
 
-Hands-on code for Jetbot course.
+## Description
 
-# Requirements
+This is the offical hands-on repository for the Jetbot course material
 
-# Part 1
+## Projects
 
-# Part 2
+Jetbot-labs related scripts have been tested on SD image "jetbot_JP4.3_JL1.24_PT1.30_0115.img"
 
-# part 3
+## Reference
 
-# Part 4
+Hardware is using third party Waveshare Jetbot Kit
+
+Sources: https://github.com/NVIDIA-AI-IOT/jetbot
