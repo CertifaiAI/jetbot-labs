@@ -2,7 +2,7 @@
 
 ## Description
 
-Official hands-on course materials for Jetbot course
+Official hands-on course materials for Jetbot course. Get teaching material here. [Google Drive](https://drive.google.com/drive/folders/1kouNSwzXxB1WmOn5PEQBK9Xc_rnNbilq?usp=sharing)
 
 ## Projects
 
