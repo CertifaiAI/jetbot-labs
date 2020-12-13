@@ -48,7 +48,7 @@ In this example we will train the Jetbot to avoid collisions in a variety of sce
 
 ## Day 4
 
-### Road Following + Collision Avoidance
+### 1) Road Following + Collision Avoidance
 
 In this example we will combine both Road Following and Collision Avoidance tasks so that the Jetbot will be able to follow the road and avoid any obstacles. The following steps are required:
 
