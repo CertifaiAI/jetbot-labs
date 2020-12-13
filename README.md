@@ -10,7 +10,17 @@ Official hands-on course materials for Jetbot course. Get teaching material here
 
 In this example we will control the Jetbot by programming from our web browser some basic motor controls
 
-## Day 2: Road Following
+## Day 2
+
+## 1) Numpy, Pillow and OpenCV
+
+In this example we will learn the common functions used to operate on the Numpy, Pillow and OpenCV libraries.   
+
+## 2) Linear Regression
+
+In this example we will train a simple neural network on a regression task.
+
+## 3) Road Following
 
 In this example we will train the Jetbot to follow a line. The following steps are required:
 
@@ -19,7 +29,13 @@ In this example we will train the Jetbot to follow a line. The following steps a
 - **Optimize the model** - We optimize our trained model using TensorRT for better performance on the Jetson Nano.  
 - **Live demo** - Finally, we run the road following live inference on the Jetbot.  
 
-## Day 3: Collision Avoidance
+## Day 3
+
+## 1) MnistClassifier
+
+In this example we will train a deep neural network on a classification task using the Mnist Dataset 
+
+## 2) Collision Avoidance
 
 In this example we will train the Jetbot to avoid collisions in a variety of scenarios. The following steps are required:
 
