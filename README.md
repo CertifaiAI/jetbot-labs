@@ -6,7 +6,9 @@ Official hands-on course materials for Jetbot course. Get teaching material here
 
 ## Projects
 
-## Day 1: Basic Motion
+## Day 1
+
+### 1) Basic Motion
 
 In this example we will control the Jetbot by programming from our web browser some basic motor controls
 
@@ -44,7 +46,9 @@ In this example we will train the Jetbot to avoid collisions in a variety of sce
 - **Optimizing the model** - We optimize our trained model using TensorRT for better performance on the Jetson Nano.  
 - **Live demo** - Finally, we run the collision avoidance live inference on the Jetbot.
 
-## Day 4: Road Following + Collision Avoidance
+## Day 4
+
+### Road Following + Collision Avoidance
 
 In this example we will combine both Road Following and Collision Avoidance tasks so that the Jetbot will be able to follow the road and avoid any obstacles. The following steps are required:
 
