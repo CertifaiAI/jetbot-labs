@@ -12,15 +12,15 @@ In this example we will control the Jetbot by programming from our web browser s
 
 ## Day 2
 
-## 1) Numpy, Pillow and OpenCV
+### 1) Numpy, Pillow and OpenCV
 
 In this example we will learn the common functions used to operate on the Numpy, Pillow and OpenCV libraries.   
 
-## 2) Linear Regression
+### 2) Linear Regression
 
 In this example we will train a simple neural network on a regression task.
 
-## 3) Road Following
+### 3) Road Following
 
 In this example we will train the Jetbot to follow a line. The following steps are required:
 
@@ -31,11 +31,11 @@ In this example we will train the Jetbot to follow a line. The following steps a
 
 ## Day 3
 
-## 1) MnistClassifier
+### 1) MnistClassifier
 
 In this example we will train a deep neural network on a classification task using the Mnist Dataset 
 
-## 2) Collision Avoidance
+### 2) Collision Avoidance
 
 In this example we will train the Jetbot to avoid collisions in a variety of scenarios. The following steps are required:
 
