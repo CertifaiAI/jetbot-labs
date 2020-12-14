@@ -8,9 +8,17 @@ Official hands-on course materials for Jetbot course. Get teaching material here
 
 ## Day 1
 
-### 1) Basic Motion
+### 1) Basic Motion using functions
 
-In this example we will control the Jetbot by programming from our web browser some basic motor controls
+In this example we will control the Jetbot by programming from our web browser some basic motor controls using functions.
+
+### 2) Basic Motions using UI
+
+In this example we will control the Jetbot by programming from our web browser some basic motor controls using User Interfaces such as sliders and buttons.
+
+### 3) Controlling Jetbot using Gamepad controller
+
+In this example we will control the Jetbot remotely by using a gamepad controller and display the live video stream using our camera.
 
 ## Day 2
 
