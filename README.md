@@ -41,11 +41,15 @@ In this example we will train the Jetbot to avoid collisions in a variety of sce
 
 ## Day 3
 
-### 1) MnistClassifier
+### 1) Image Augmentation
+
+In this example we will apply various image augmentations on a dataset by using PyTorch packages and display the results.
+
+### 2) MnistClassifier
 
 In this example we will train a deep neural network on a classification task using the Mnist Dataset 
 
-### 2) Road Following
+### 3) Road Following
 
 In this example we will train the Jetbot to follow a path on a track. The following steps are required:
 
