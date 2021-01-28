@@ -51,6 +51,7 @@ In this example we will apply various image augmentations on a dataset by using 
 
 - Learn how to define CNN model for computer vision
 - Learn how to use pretrained CNN model for transfer learning
+  - [Download hymenoptera_data](https://drive.google.com/file/d/1Jt_zB0wixgwNqnCmsk44bjjArAMH80ZI/view?usp=sharing)
 
 #### 3) [Regression Exercise](/notebooks/Day_3/Regression_Exercise)
 
