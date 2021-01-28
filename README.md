@@ -43,21 +43,21 @@ In this example we will train the Jetbot to avoid collisions in a variety of sce
 
 ## Day 3
 
-### 1) Image Augmentation
+#### 1) Image Augmentation
 
 In this example we will apply various image augmentations on a dataset by using PyTorch packages and display the results.
 
-### 2) [Convolutional Neural Network Exercise](/notebooks/Day_3/CNN_Exercise)
+#### 2) [Convolutional Neural Network Exercise](/notebooks/Day_3/CNN_Exercise)
 
 - Learn how to define CNN model for computer vision
 - Learn how to use pretrained CNN model for transfer learning
 
-### 3) [Regression Exercise](/notebooks/Day_3/Regression_Exercise)
+#### 3) [Regression Exercise](/notebooks/Day_3/Regression_Exercise)
 
 - Build Regression Model from scratch with Pytorch
 - Learn the differences when training Classification and Regression model
 
-### 4) Road Following
+#### 4) Road Following
 
 In this example we will train the Jetbot to follow a path on a track. The following steps are required:
 
@@ -68,18 +68,18 @@ In this example we will train the Jetbot to follow a path on a track. The follow
 
 ## Day 4
 
-### 1) [TensorRT Example](/notebooks/Day_4/Examples/Example_1_TensorRt.ipynb)
+#### 1) [TensorRT Example](/notebooks/Day_4/Examples/Example_1_TensorRt.ipynb)
 
 - Learn optimization process with TensorRt
 - Learn the trade-off of TensorRt optimization
 
-### 2) [TensorRT Example](/notebooks/Day_4/Examples/Example_2_OnnxRuntime.ipynb)
+#### 2) [TensorRT Example](/notebooks/Day_4/Examples/Example_2_OnnxRuntime.ipynb)
 
 - Learn optimization process with OnnxRuntime
 - Learn how to convert pytorch model to Onnx
 - Learn the trade-off of OnnxRuntime optimization
 
-### 3) Road Following + Collision Avoidance
+#### 3) Road Following + Collision Avoidance
 
 In this example we will be combining both Road Following and Collision Avoidance models into one notebook so that we can perform *Road Following* as well as enable *Collision Avoidance* at the same time so that our Jetbot will be able to follow a specific path on the track and avoid any collision with obstacles that may come on its way.
 
