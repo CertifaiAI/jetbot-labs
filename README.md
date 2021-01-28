@@ -8,11 +8,11 @@ Official hands-on course materials for Jetbot course. Get teaching material here
 
 ## Day 1
 
-#### 1) [Basic Motion using functions](/notebooks/Day_1/Basic_Motion)
+#### 1) [Basic Motion using functions](/notebooks/Day_1/Basic_Motion/1-Basic_motion_using_Functions.ipynb)
 
 In this example we will control the Jetbot by programming from our web browser some basic motor controls using functions.
 
-#### 2) [Basic Motions using UI](/notebooks/Day_1/Basic_Motion)
+#### 2) [Basic Motions using UI](/notebooks/Day_1/Basic_Motion/2-Basic_motion_using_UI.ipynb)
 
 In this example we will control the Jetbot by programming from our web browser some basic motor controls using User Interfaces such as sliders and buttons.
 
