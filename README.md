@@ -73,7 +73,7 @@ In this example we will train the Jetbot to follow a path on a track. The follow
 - Learn optimization process with TensorRt
 - Learn the trade-off of TensorRt optimization
 
-#### 2) [TensorRT Example](/notebooks/Day_4/Examples/Example_2_OnnxRuntime.ipynb)
+#### 2) [OnnxRuntime Example](/notebooks/Day_4/Examples/Example_2_OnnxRuntime.ipynb)
 
 - Learn optimization process with OnnxRuntime
 - Learn how to convert pytorch model to Onnx
