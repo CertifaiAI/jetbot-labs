@@ -8,29 +8,31 @@ Official hands-on course materials for Jetbot course. Get teaching material here
 
 ## Day 1
 
-### 1) Basic Motion using functions
+#### 1) [Basic Motion using functions](/notebooks/Day_1/)
 
 In this example we will control the Jetbot by programming from our web browser some basic motor controls using functions.
 
-### 2) Basic Motions using UI
+#### 2) Basic Motions using UI
 
 In this example we will control the Jetbot by programming from our web browser some basic motor controls using User Interfaces such as sliders and buttons.
 
-### 3) Controlling Jetbot using Gamepad controller
+#### 3) Controlling Jetbot using Gamepad controller
 
 In this example we will control the Jetbot remotely by using a gamepad controller and display the live video stream using our Jetbot camera.
 
 ## Day 2
 
-### 1) Numpy, Pillow and OpenCV
+#### 1) [Python Exercise](/notebooks/Day_2/Python_Exercise)
 
-In this example we will learn the common functions used to operate on the Numpy, Pillow and OpenCV libraries.   
+- Exercise for Python basic course.
+- Learn how to import library, use classes and inheritance, syntax and data containers
 
-### 2) Linear Regression
+#### 2) [Classification Exercise](/notebooks/Day_2/Classification_Exercise)
 
-In this example we will train a simple neural network on a regression task.
+- Introduction to classification with PyTorch.
+- Build simple classification fr0m scratch to understand the process of building models.
 
- ### 3) Collision Avoidance
+#### 3) Collision Avoidance
 
 In this example we will train the Jetbot to avoid collisions in a variety of scenarios. The following steps are required:
 
@@ -45,11 +47,17 @@ In this example we will train the Jetbot to avoid collisions in a variety of sce
 
 In this example we will apply various image augmentations on a dataset by using PyTorch packages and display the results.
 
-### 2) MnistClassifier
+### 2) [Convolutional Neural Network Exercise](/notebooks/Day_3/CNN_Exercise)
 
-In this example we will train a deep neural network on a classification task using the Mnist Dataset 
+- Learn how to define CNN model for computer vision
+- Learn how to use pretrained CNN model for transfer learning
 
-### 3) Road Following
+### 3) [Regression Exercise](/notebooks/Day_3/Regression_Exercise)
+
+- Build Regression Model from scratch with Pytorch
+- Learn the differences when training Classification and Regression model
+
+### 4) Road Following
 
 In this example we will train the Jetbot to follow a path on a track. The following steps are required:
 
@@ -60,7 +68,18 @@ In this example we will train the Jetbot to follow a path on a track. The follow
 
 ## Day 4
 
-### 1) Road Following + Collision Avoidance
+### 1) [TensorRT Example](/notebooks/Day_4/Examples/Example_1_TensorRt.ipynb)
+
+- Learn optimization process with TensorRt
+- Learn the trade-off of TensorRt optimization
+
+### 2) [TensorRT Example](/notebooks/Day_4/Examples/Example_2_OnnxRuntime.ipynb)
+
+- Learn optimization process with OnnxRuntime
+- Learn how to convert pytorch model to Onnx
+- Learn the trade-off of OnnxRuntime optimization
+
+### 3) Road Following + Collision Avoidance
 
 In this example we will be combining both Road Following and Collision Avoidance models into one notebook so that we can perform *Road Following* as well as enable *Collision Avoidance* at the same time so that our Jetbot will be able to follow a specific path on the track and avoid any collision with obstacles that may come on its way.
 
